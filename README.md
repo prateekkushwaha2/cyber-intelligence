@@ -1,1 +1,1 @@
-# CyberIntelegencePlatform
+# cyber intelligence Platform
